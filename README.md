@@ -76,21 +76,16 @@ I work at the intersection of:
 <img src="https://skillicons.dev/icons?i=linux,kali,nginx,git,github"/>
 </p>
 
-## 🤖 Skills & Technologies
-
-### 🔧 Hardware & Electronics
-![Arduino](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg)
+### Hardware & Electronics
 Arduino • PCB Design • Embedded Systems • Circuit Design
 
-### 🤖 Robotics & Automation
+### Robotics & Automation
 Robotics • Sensors Integration • Motor Control • IoT Systems • Control Systems
 
-### 🛠️ Assembly & Hardware Building
+### Assembly & Hardware Building
 Circuit Assembly • Wiring • Prototyping • Hardware Debugging
 
-### 💻 Programming
-![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
-![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg)
+### Programming
 Python • C++ • Embedded C • Arduino IDE
 
 ---
