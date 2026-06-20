@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="assets/Banner.png"/>
+<img src="Assets/Banner.png"/>
 
 ### AI Engineer • Full-Stack Developer • Independent Researcher • Founder
 
