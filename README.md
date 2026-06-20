@@ -22,7 +22,7 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 I am an **AI Engineer & Full-Stack Systems Developer** focused on building intelligent, scalable, and secure software systems.
 
@@ -38,23 +38,18 @@ I work at the intersection of:
 
 ---
 
-## 🚀 Startups & Projects
+##  Startups & Projects
 
-### 🧠 VeilAI
-AI-powered platform for automation, analytics, and intelligent decision systems.
+* Veil Agency — A creative marketing agency that builds strong, stealth-driven brands and delivers high-impact digital growth strategies.
 
-### 🌐 Social Intelligence Engine
-Predictive system for social media trends, engagement, and viral content detection.
+* CyperLife — A futuristic cyber-tech company specializing in AI systems, automation, and advanced digital intelligence solutions.
 
-### ⚡ Neural Automation Lab
-Automation infrastructure for APIs, workflows, and business processes.
+* Astra Dynamics — An innovation and engineering company focused on space technology, energy systems, and smart tech solutions.
 
-### 🔐 SecureFlow Systems
-Security-first API gateway with authentication, encryption, and rate limiting.
-
+* Oxium — A modern technology brand focused on high-performance systems, scalable digital infrastructure, and advanced tech solutions.
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 ### Core
 <p>
@@ -81,6 +76,23 @@ Security-first API gateway with authentication, encryption, and rate limiting.
 <img src="https://skillicons.dev/icons?i=linux,kali,nginx,git,github"/>
 </p>
 
+## 🤖 Skills & Technologies
+
+### 🔧 Hardware & Electronics
+![Arduino](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg)
+Arduino • PCB Design • Embedded Systems • Circuit Design
+
+### 🤖 Robotics & Automation
+Robotics • Sensors Integration • Motor Control • IoT Systems • Control Systems
+
+### 🛠️ Assembly & Hardware Building
+Circuit Assembly • Wiring • Prototyping • Hardware Debugging
+
+### 💻 Programming
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
+![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg)
+Python • C++ • Embedded C • Arduino IDE
+
 ---
 
 ## 📊 GitHub Analytics
@@ -101,7 +113,7 @@ Security-first API gateway with authentication, encryption, and rate limiting.
 
 ---
 
-## 🧭 Focus Areas
+## Focus Areas
 
 - AI Systems & Agents  
 - Computer Vision (Real-Time Recognition)  
@@ -112,12 +124,12 @@ Security-first API gateway with authentication, encryption, and rate limiting.
 
 ---
 
-## 🌐 Links
+##  Links
 
-- 🌍 Website: https://your-startup.com  
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN  
-- 📸 Instagram: https://instagram.com/YOUR_INSTAGRAM  
-- 📧 Email: YOUR_EMAIL  
+- 🌍 Website: https://omarwael12356@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/Omarwael123
+- 📸 Instagram: https://instagram.com/dailyomar1 
+- 📧 Email: omarwael123567@outlook.sa
 
 ---
 
