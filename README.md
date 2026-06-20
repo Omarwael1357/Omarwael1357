@@ -1,6 +1,7 @@
 <!-- FAANG STYLE GITHUB PROFILE -->
 
 <div align="center">
+  
 ### AI Engineer • Full-Stack Developer • Independent Researcher • Founder
 ![My Image](Banner.png)
 
