@@ -121,7 +121,7 @@ Python • C++ • Embedded C • Arduino IDE
 
 ##  Links
 
-- 🌍 Website: https://omarwael12356@gmail.com  
+- 🌍 Website: https://omarwael.net
 - 💼 LinkedIn: https://linkedin.com/in/Omarwael123
 - 📸 Instagram: https://instagram.com/dailyomar1 
 - 📧 Email: omarwael123567@outlook.sa
