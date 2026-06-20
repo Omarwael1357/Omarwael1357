@@ -11,7 +11,6 @@
 
 <!-- SOCIAL LINKS -->
 <p>
-<a href="https://www.facebook.com/Omarwael1357"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/faceboo"/></a>
 <a href="https://instagram.com/dailyomar1"><img src="https://skillicons.dev/icons?i=instagram"/></a>
 <a href="https://github.com/Omarwael1357"><img src="https://skillicons.dev/icons?i=github"/></a>
 <a href="mailto:omarwael123567@outlook.sa"><img src="https://img.icons8.com/color/48/gmail-new.png"/></a>
