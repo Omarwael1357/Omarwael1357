@@ -11,13 +11,13 @@
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-<a href="https://instagram.com/YOUR_INSTAGRAM">
+<a href="https://instagram.com/https://www.instagram.com/dailyomar1/">
   <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
-<a href="https://facebook.com/YOUR_FACEBOOK">
+<a href="https://facebook.com/https://www.facebook.com/Omarwael1357">
   <img src="https://img.icons8.com/color/48/facebook-new.png" />
 </a>
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:omarwael123567@gmal.com">
   <img src="https://img.icons8.com/color/48/gmail-new.png" />
 </a>
 
@@ -59,7 +59,7 @@ Building intelligent systems that combine research, scalability, performance, an
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Omarwael1357&theme=github-dark-blue&hide_border=true"/>
 
 </p>
 
