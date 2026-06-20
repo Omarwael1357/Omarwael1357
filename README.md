@@ -1,9 +1,8 @@
 <!-- FAANG STYLE GITHUB PROFILE -->
 
 <div align="center">
-
-![My Image](Banner.png)
 ### AI Engineer • Full-Stack Developer • Independent Researcher • Founder
+![My Image](Banner.png)
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=AI+Systems+Engineer;Computer+Vision+%26+Machine+Learning;Full+Stack+Web+Developer;Cybersecurity+Focused+Architecture;Building+Scalable+Startups"/>
 
