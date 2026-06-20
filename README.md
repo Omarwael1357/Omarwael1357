@@ -1,85 +1,101 @@
-<h1 align="center">Hey 👋, I'm Omar Wael Mohamed</h1>
+# Omar Wael Mohamed
+### Researcher • AI Engineer • Full-Stack Developer • Systems Architect
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=00F5FF&center=true&vCenter=true&width=600&lines=AI+Engineer+🤖;Full-Stack+Developer+🌐;Social+Media+Apps+Builder+📱;Desktop+Software+Developer+💻;Always+Learning+New+Tech+🚀" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://facebook.com/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-</p>
+Building intelligent systems, next-generation web platforms, AI-powered applications, and scalable digital products.
+
+</div>
 
 ---
 
-<img align="right" alt="AI Coding GIF" width="380px" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif"/>
+## About Me
 
-## 🧠 About Me
+I'm **Omar Wael Mohamed**, an independent researcher and software engineer focused on creating advanced technology solutions that combine:
 
-I am **Omar Wael Mohamed**, a passionate and driven software developer focused on building intelligent, scalable, and modern digital solutions.
+- Artificial Intelligence
+- Machine Learning
+- Computer Vision
+- Web Development
+- Social Media Platforms
+- Automation Systems
+- Real-Time Applications
+- Data Engineering
+- System Architecture
+- Cloud Technologies
 
-I specialize in:
-- 🤖 Artificial Intelligence & Machine Learning
-- 🌐 Full Stack Web Development
-- 📱 Social Media Applications
-- 💻 Desktop & Cross-platform Software
-
-I enjoy turning ideas into real products using clean architecture, smart algorithms, and modern frameworks 🚀
-
----
-
-## ⚙️ Tech Stack
-
-### 👨‍💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+My goal is not only to build software but to engineer complete ecosystems that solve real-world problems at scale.
 
 ---
 
-### ⚡ Frameworks & Tools
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+## Core Expertise
+
+### Artificial Intelligence
+
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Face Recognition Systems
+- Object Detection
+- NLP Applications
+- Recommendation Systems
+- AI Automation
+- Predictive Analytics
+- Generative AI
+
+### Web Development
+
+- React
+- Next.js
+- TypeScript
+- Node.js
+- Express.js
+- REST APIs
+- GraphQL
+- PostgreSQL
+- MongoDB
+- Redis
+
+### Software Engineering
+
+- Scalable Architecture
+- Distributed Systems
+- Performance Optimization
+- Clean Architecture
+- Microservices
+- Design Patterns
+- Testing & QA
+- Security Engineering
+
+### DevOps & Infrastructure
+
+- Docker
+- Linux
+- Nginx
+- CI/CD Pipelines
+- Cloud Deployments
+- Monitoring Systems
+- Server Optimization
 
 ---
 
-## 🚀 What I'm Working On
+## Current Focus
 
-- 🤖 Building AI-powered intelligent applications  
-- 🌐 Developing scalable full-stack systems  
-- 📱 Creating modern social media platforms  
-- 💻 Designing desktop automation tools  
+```text
+Artificial Intelligence
+█████████████████████████ 100%
 
----
+Computer Vision
+█████████████████████████ 100%
 
-## 📊 GitHub Stats
+Full Stack Development
+█████████████████████████ 100%
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180"/>
-</p>
+System Design
+█████████████████████████ 100%
 
----
+Automation Engineering
+████████████████████████░ 95%
 
-## 🔥 Vision
-
-> “Building intelligent systems that merge AI, creativity, and real-world impact.”
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+Data Engineering
+███████████████████████░░ 90%
