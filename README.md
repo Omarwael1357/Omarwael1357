@@ -1,5 +1,9 @@
 <div align="center">
+<h1 align="center">Omar Wael Mohamed</h1>
 
+<p align="center">
+AI Engineer • Researcher • Founder
+</p>
 # Omar Wael Mohamed
 
 ### AI Engineer • Full-Stack Developer • Independent Researcher
