@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=200&section=header&text=Omar%20Wael%20Mohamed&fontSize=38&fontColor=ffffff&animation=fadeIn"/>
+<img src="assets/Banner.png"/>
 
 ### AI Engineer • Full-Stack Developer • Independent Researcher • Founder
 
