@@ -11,14 +11,13 @@
 
 <!-- SOCIAL LINKS -->
 <p>
-<a href="https://your-startup.com"><img src="https://img.icons8.com/fluency/48/domain.png"/></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-<a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://skillicons.dev/icons?i=instagram"/></a>
-<a href="https://github.com/YOUR_USERNAME"><img src="https://skillicons.dev/icons?i=github"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.icons8.com/color/48/gmail-new.png"/></a>
+<a href="https://omarwael.net"><img src="https://img.icons8.com/fluency/48/domain.png"/></a>
+<a href="https://instagram.com/dailyomar1"><img src="https://skillicons.dev/icons?i=instagram"/></a>
+<a href="https://github.com/Omarwael1357"><img src="https://skillicons.dev/icons?i=github"/></a>
+<a href="mailto:omarwael123567@outlook.sa"><img src="https://img.icons8.com/color/48/gmail-new.png"/></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0ea5e9"/>
+<img src="https://komarev.com/ghpvc/?username=Omarwael1357&style=for-the-badge&color=0ea5e9"/>
 
 </div>
 
@@ -89,15 +88,15 @@ Security-first API gateway with authentication, encryption, and rate limiting.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Omarwael1357&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omarwael1357&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Omarwael1357&theme=github-dark-blue&hide_border=true"/>
 
 </p>
 
